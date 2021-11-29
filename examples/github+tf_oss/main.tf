@@ -1,5 +1,5 @@
 module "aft" {
-  source = ""
+  source = "./"
   # Required Vars
   ct_management_account_id    = "111122223333"
   log_archive_account_id      = "444455556666"
